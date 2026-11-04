@@ -4,7 +4,9 @@ Windows 桌面翻译工具，支持选中文字、输入、屏幕区域 OCR 和 
 
 ## 下载
 
-前往 https://github.com/astatineat2/linguafloat-releases/releases 下载完整 `win-x64.zip`，完整解压后运行 `LinguaFloat.exe`。无需安装 Python，不要只复制 EXE。
+前往 [最新稳定版](https://github.com/astatineat2/linguafloat-releases/releases/latest)，下载完整 `win-x64.zip`，完整解压后运行 `LinguaFloat.exe`。无需安装 Python，不要只复制 EXE。
+
+软件 ZIP 约 492 MiB，解压后约 1.21 GiB。更新还需容纳下载包、新版和旧版备份，请额外预留至少 2 GiB；首次 PDF 所需资源另计。`corresponding-source.zip` 是开发与许可证所需的对应源码，普通使用无需下载。
 
 开发仓库私有。每版二进制另提供许可证要求的对应源码附件；GitHub 自动生成的 Source code.zip 不是该附件。
 
